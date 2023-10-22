@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-beige: #e5e5cb;
+  --color-gray-100: #3c2a21;
+  --color-gray-200: #1a120b;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-21xl: 40px;
+  --br-mini: 15px;
+}

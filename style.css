@@ -1,0 +1,404 @@
+.analytics,
+.lorem-ipsum-is {
+  position: absolute;
+  top: 0;
+  left: 1.13px;
+  display: inline-block;
+  width: 421.85px;
+  height: 87.75px;
+}
+.lorem-ipsum-is {
+  top: 150.74px;
+  left: 0;
+  font-size: 24px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  width: 644.59px;
+  height: 305.98px;
+}
+.pie-chart-icon {
+  position: absolute;
+  top: 2.25px;
+  left: 722.21px;
+  width: 532.1px;
+  height: 532.1px;
+  object-fit: cover;
+}
+.div-4 {
+  position: absolute;
+  top: 1708.79px;
+  left: 2.25px;
+  width: 1254.31px;
+  height: 534.35px;
+}
+.photo-gallery {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 321.99px);
+  display: inline-block;
+  width: 642.34px;
+  height: 87.75px;
+}
+.carousel-child,
+.carousel-inner,
+.carousel-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 281.24px;
+  height: 281.24px;
+  object-fit: cover;
+}
+.carousel-inner,
+.carousel-item {
+  left: 419.6px;
+}
+.carousel-inner {
+  left: 839.21px;
+}
+.carousel,
+.div-3 {
+  position: absolute;
+  width: 1120.44px;
+}
+.carousel {
+  top: 165.37px;
+  left: 0;
+  height: 281.24px;
+}
+.div-3 {
+  top: 1117.07px;
+  left: calc(50% - 544.78px);
+  height: 446.6px;
+}
+.virtual-police-station {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 526.3px;
+  height: 132.74px;
+}
+.image-placeholder-icon {
+  position: absolute;
+  top: 0;
+  left: 831.06px;
+  border-radius: 70px;
+  width: 425.5px;
+  height: 409.48px;
+  object-fit: scale-down;
+}
+.lorem-ipsum-is1 {
+  position: absolute;
+  top: 157.49px;
+  left: 2.34px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  display: inline-block;
+  width: 666.96px;
+  height: 267.74px;
+}
+.div-2 {
+  position: absolute;
+  top: 562.47px;
+  left: 0;
+  width: 1256.56px;
+  height: 425.23px;
+  text-align: left;
+  font-size: 48px;
+}
+.file-an-fir,
+.lorem-ipsum-is2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 389.79px);
+  display: inline-block;
+  width: 780.71px;
+  height: 152.99px;
+}
+.lorem-ipsum-is2 {
+  top: 136.12px;
+  left: calc(50% - 462.91px);
+  font-size: 22px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: justify;
+  width: 925.83px;
+  height: 124.87px;
+}
+.file-fir,
+.file-fir-bg {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.file-fir-bg {
+  background-color: var(--color-gray);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 600.72px;
+  height: 112.49px;
+}
+.file-fir {
+  background-color: transparent;
+  top: 12.37px;
+  left: 148.49px;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--color-beige);
+  text-align: justify;
+  display: inline-block;
+  width: 302.61px;
+  height: 87.75px;
+}
+.file-fir-button {
+  top: 327.36px;
+  left: 163.12px;
+  width: 600.72px;
+  height: 112.49px;
+}
+.div-1,
+.file-fir-button,
+.main {
+  position: absolute;
+}
+.div-1 {
+  top: 0;
+  left: calc(50% - 448.29px);
+  width: 925.83px;
+  height: 439.85px;
+  font-size: 96px;
+}
+.main {
+  top: 143.99px;
+  left: 76.5px;
+  width: 1256.56px;
+  height: 2243.14px;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-gray);
+  font-family: var(--font-montserrat);
+}
+.footer-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 235px;
+}
+.departments,
+.profile {
+  position: absolute;
+  top: 47.25px;
+  left: 1270.06px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 134.99px;
+  height: 25.87px;
+}
+.profile {
+  left: 1154.19px;
+  width: 81px;
+}
+.rajasthan-police-logo-2-icon {
+  position: absolute;
+  top: 34.87px;
+  left: 36px;
+  width: 156.37px;
+  height: 156.37px;
+  object-fit: cover;
+}
+.home {
+  top: 47.25px;
+  left: 870.71px;
+  text-decoration: underline;
+  width: 75.37px;
+  height: 25.87px;
+}
+.contact-us,
+.help-section,
+.home {
+  position: absolute;
+  display: inline-block;
+}
+.contact-us {
+  top: 47.25px;
+  left: 980.95px;
+  text-decoration: underline;
+  width: 138.37px;
+  height: 25.87px;
+}
+.help-section {
+  left: 1277.94px;
+  width: 127.12px;
+}
+.careers,
+.fir-status,
+.help-section {
+  top: 113.62px;
+  text-decoration: underline;
+  height: 25.87px;
+}
+.fir-status {
+  position: absolute;
+  left: 1142.94px;
+  display: inline-block;
+  width: 102.37px;
+}
+.careers {
+  left: 868.46px;
+  width: 77.62px;
+}
+.careers,
+.case-studies,
+.copyright-2018 {
+  position: absolute;
+  display: inline-block;
+}
+.case-studies {
+  top: 113.62px;
+  left: 978.7px;
+  text-decoration: underline;
+  width: 131.62px;
+  height: 25.87px;
+}
+.copyright-2018 {
+  top: 188.99px;
+  left: calc(50% - 181.15px);
+  font-size: 16px;
+  width: 361.11px;
+  height: 21.37px;
+}
+.bg,
+.footer {
+  position: absolute;
+  top: 2530px;
+  left: 0;
+  width: 1440px;
+  height: 235px;
+}
+.bg {
+  top: 0;
+  background-color: var(--color-gray);
+  width: 1920px;
+  height: 89.98px;
+}
+.rajasthan-police-logo-1-icon {
+  position: absolute;
+  top: 15.75px;
+  left: 16.89px;
+  width: 59.67px;
+  height: 59.61px;
+  object-fit: cover;
+}
+.contact,
+.departments1,
+.home1 {
+  position: absolute;
+  top: 34.87px;
+  left: 798.18px;
+  display: inline-block;
+  width: 95.69px;
+  height: 29.24px;
+}
+.contact,
+.departments1 {
+  left: 1133.66px;
+  width: 110.33px;
+  height: 25.87px;
+}
+.departments1 {
+  left: 920.89px;
+  width: 182.38px;
+}
+.profile-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-beige);
+  width: 119.33px;
+  height: 35.99px;
+}
+.profile1 {
+  position: absolute;
+  top: 4.5px;
+  left: 27.02px;
+  display: inline-block;
+  width: 65.3px;
+  height: 25.87px;
+}
+.profile-button {
+  position: absolute;
+  top: 28.12px;
+  left: 1281.14px;
+  width: 119.33px;
+  height: 35.99px;
+  text-align: center;
+  color: var(--color-gray);
+}
+.search-bg-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 444.68px;
+  height: 37.12px;
+}
+.search {
+  border: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 8.01px;
+  left: 25.41px;
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 65.3px;
+  height: 25.87px;
+}
+.nav-bar,
+.search-button {
+  position: absolute;
+  top: 26.99px;
+  left: 289.89px;
+  width: 444.68px;
+  height: 37.12px;
+}
+.nav-bar {
+  top: 0;
+  left: -1px;
+  width: 1920px;
+  height: 89.98px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #dcd6b0;
+  width: 100%;
+  height: 2765px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-beige);
+  font-family: var(--font-roboto);
+}
+
+.file-fir a:visited{
+  text-decoration: none;
+  color: #E5E5CB;
+}
+
+.file-fir a{
+  text-decoration: none;
+  color: #E5E5CB;
+
+}

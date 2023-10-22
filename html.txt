@@ -1,0 +1,98 @@
+<div class="slide-16-9-1">
+  <div class="nav-bar">
+    <div class="bg"></div>
+    <img class="rajasthan-police-logo-1" src="rajasthan-police-logo-1.png" />
+    <svg
+      class="search-bg"
+      width="595"
+      height="50"
+      viewBox="0 0 595 50"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0.656006 20.0611C0.656006 9.01539 9.61031 0.0610962 20.656 0.0610962H574.162C585.208 0.0610962 594.162 9.0154 594.162 20.0611V29.6452C594.162 40.6909 585.208 49.6452 574.162 49.6452H20.656C9.61034 49.6452 0.656006 40.6909 0.656006 29.6452V20.0611Z"
+        fill="#0E0E0E"
+      />
+    </svg>
+
+    <div class="profile-bg"></div>
+    <div class="home">Home</div>
+    <div class="contact">Contact</div>
+    <div class="departments">Departments</div>
+    <div class="profile">Profile</div>
+  </div>
+  <div class="main">
+    <div class="div-4">
+      <div class="analytics">ANALYTICS</div>
+      <div
+        class="lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic-typesetting-remaining-essentially-unchanged-it-was-popularised-in-the-1960-s-with-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing"
+      >
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry&#039;s standard dummy text
+        ever since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in the 1960s with the release
+        of Letraset sheets containing Lorem Ipsum passages, and more recently
+        with desktop publishing
+      </div>
+      <img class="image-1" src="image-1.png" />
+    </div>
+    <div class="div-3">
+      <div class="photo-gallery">PHOTO GALLERY</div>
+      <div class="rectangle-2"></div>
+      <div class="rectangle-3"></div>
+      <div class="rectangle-4"></div>
+      <div class="rectangle-5"></div>
+      <div class="rectangle-6"></div>
+      <div class="rectangle-7"></div>
+    </div>
+    <div class="div-2">
+      <div class="virtual-police-station">VIRTUAL POLICE STATION</div>
+      <div class="rectangle-1"></div>
+      <div
+        class="lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic-typesetting-remaining-essentially-unchanged-it-was-popularised-in-the-1960-s-with-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-including-versions-of-lorem-ipsum"
+      >
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry&#039;s standard dummy text
+        ever since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in the 1960s with the release
+        of Letraset sheets containing Lorem Ipsum passages, and more recently
+        with desktop publishing software like Aldus PageMaker including versions
+        of Lorem Ipsum.
+      </div>
+    </div>
+    <div class="div-1">
+      <div class="file-an-fir">FILE AN FIR</div>
+      <div
+        class="lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic"
+      >
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry&#039;s standard dummy text
+        ever since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic
+      </div>
+      <div class="file-fir-bg"></div>
+      <div class="file-fir">FILE FIR</div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="rectangle-8"></div>
+    <div class="departments2">Departments</div>
+    <div class="profile2">Profile</div>
+    <img class="rajasthan-police-logo-2" src="rajasthan-police-logo-2.png" />
+    <div class="home2">Home</div>
+    <div class="contact-us">Contact Us</div>
+    <div class="help-section">Help Section</div>
+    <div class="fir-status">FIR Status</div>
+    <div class="careers">Careers</div>
+    <div class="case-studies">Case Studies</div>
+    <div class="copyright-2018-police-all-rights-reserved">
+      Copyright © 2018 Police. | All rights reserved.
+    </div>
+  </div>
+</div>

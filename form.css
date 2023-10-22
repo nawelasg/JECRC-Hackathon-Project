@@ -1,0 +1,447 @@
+.file-the-fir {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 439.44px;
+  height: 81.03px;
+}
+.div-1,
+.lorem-ipsum-is {
+  position: absolute;
+  left: 0;
+  width: 607.73px;
+}
+.lorem-ipsum-is {
+  top: 109.03px;
+  font-size: 24px;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  height: 413.46px;
+}
+.div-1 {
+  top: 36.17px;
+  height: 522.49px;
+}
+.form-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 263px);
+  border-radius: var(--br-xl);
+  background-color: #d5cea3;
+  width: 526px;
+  height: 869px;
+}
+.register-your-fir {
+  position: absolute;
+  top: 23px;
+  left: 82px;
+}
+.name-button-child {
+  border: 0;
+  background-color: var(--color-gray-200);
+  border-radius: var(--br-21xl);
+}
+.name-button,
+.name-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 447px;
+  height: 33px;
+  color: #D5CEA3;
+
+}
+.address-incident-button-child,
+.father-name-button {
+  position: absolute;
+  top: 53px;
+  left: 0;
+  width: 447px;
+  height: 33px;
+}
+.address-incident-button-child {
+  border: 0;
+  background-color: var(--color-gray-200);
+  top: 0;
+  border-radius: var(--br-mini);
+  height: 130px;
+}
+.address-incident-button {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  width: 447px;
+  height: 130px;
+}
+.district-button-child,
+.incident-information-button {
+  position: absolute;
+  top: 419px;
+  left: 0;
+  width: 447px;
+  height: 130px;
+}
+.district-button-child {
+  border: 0;
+  background-color: var(--color-gray-200);
+  top: 0;
+  border-radius: var(--br-21xl);
+  width: 208px;
+  height: 33px;
+}
+.city-button,
+.district-button,
+.nationality-button,
+.state-button {
+  position: absolute;
+  top: 313px;
+  left: 0;
+  width: 208px;
+  height: 33px;
+}
+.city-button,
+.nationality-button,
+.state-button {
+  left: 239px;
+}
+.nationality-button,
+.state-button {
+  top: 366px;
+  left: 0;
+}
+.nationality-button {
+  left: 239px;
+}
+.aadhar-card,
+.alternate-phone-no,
+.fields,
+.state-button1 {
+  position: absolute;
+  top: 569px;
+  left: 0;
+  width: 208px;
+  height: 33px;
+}
+.aadhar-card,
+.alternate-phone-no,
+.fields {
+  left: 239px;
+}
+.aadhar-card,
+.fields {
+  top: 257px;
+  left: 0;
+  width: 447px;
+}
+.fields {
+  top: 98px;
+  left: 39px;
+  height: 602px;
+}
+.browse,
+.browse-button-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.browse-button-child {
+  background-color: var(--color-gray-200);
+  top: 0;
+  left: 219px;
+  border-radius: var(--br-21xl);
+  width: 208px;
+  height: 33px;
+}
+.browse {
+  background-color: transparent;
+  top: 5px;
+  left: 239px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: #dcd6b0;
+  text-align: left;
+  display: inline-block;
+}
+.browse-button,
+.upload-signature {
+  position: absolute;
+  top: 5px;
+  left: 0;
+}
+.browse-button {
+  top: 720px;
+  left: 59px;
+  width: 427px;
+  height: 33px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+}
+.submit,
+.submit-button-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.submit-button-child {
+  background-color: #3C2A21;
+  top: 0;
+  left: 0;
+  border-radius: 19px;
+  width: 279px;
+  height: 59px;
+}
+.submit {
+  background-color: transparent;
+  top: 5px;
+  left: 57px;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: var(--font-montserrat);
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.submit-button {
+  position: absolute;
+  top: 783px;
+  left: 123px;
+  width: 279px;
+  height: 59px;
+}
+.form,
+.main {
+  position: absolute;
+  height: 869px;
+}
+.form {
+  top: 0;
+  left: calc(50% + 109.2px);
+  width: 526px;
+  font-size: var(--font-size-21xl);
+}
+.main {
+  top: 153px;
+  left: 76.61px;
+  width: 1270.39px;
+  font-size: 64px;
+  color: var(--color-gray-100);
+  font-family: var(--font-montserrat);
+}
+.footer-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 235.11px;
+}
+.departments,
+.profile {
+  position: absolute;
+  top: 47.25px;
+  left: 1269.73px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 135.32px;
+  height: 25.87px;
+}
+.profile {
+  left: 1153.58px;
+  width: 81.19px;
+}
+.rajasthan-police-logo-2-icon {
+  position: absolute;
+  top: 34.87px;
+  left: 32.7px;
+  width: 156.74px;
+  height: 156.37px;
+  object-fit: cover;
+}
+.home {
+  top: 47.25px;
+  left: 869.41px;
+  text-decoration: underline;
+  width: 75.55px;
+  height: 25.87px;
+}
+.contact-us,
+.help-section,
+.home {
+  position: absolute;
+  display: inline-block;
+}
+.contact-us {
+  top: 47.25px;
+  left: 979.92px;
+  text-decoration: underline;
+  width: 138.7px;
+  height: 25.87px;
+}
+.help-section {
+  left: 1277.62px;
+  width: 127.42px;
+}
+.careers,
+.fir-status,
+.help-section {
+  top: 113.62px;
+  text-decoration: underline;
+  height: 25.87px;
+}
+.fir-status {
+  position: absolute;
+  left: 1142.3px;
+  display: inline-block;
+  width: 102.62px;
+}
+.careers {
+  left: 867.16px;
+  width: 77.81px;
+}
+.careers,
+.case-studies,
+.copyright-2018 {
+  position: absolute;
+  display: inline-block;
+}
+.case-studies {
+  top: 113.62px;
+  left: 977.67px;
+  text-decoration: underline;
+  width: 131.93px;
+  height: 25.87px;
+}
+.copyright-2018 {
+  top: 188.99px;
+  left: calc(50% - 183.24px);
+  font-size: 16px;
+  width: 361.97px;
+  height: 21.37px;
+}
+.bg,
+.footer {
+  position: absolute;
+  top: 1065px;
+  left: 0;
+  width: 1440px;
+  height: 235.11px;
+}
+.bg {
+  top: 0;
+  background-color: var(--color-gray-100);
+  width: 1920px;
+  height: 89.98px;
+}
+.rajasthan-police-logo-1-icon {
+  position: absolute;
+  top: 15.75px;
+  left: 16.87px;
+  width: 59.61px;
+  height: 59.61px;
+  object-fit: cover;
+}
+.contact,
+.departments1,
+.home1 {
+  position: absolute;
+  top: 34.87px;
+  left: 797.42px;
+  display: inline-block;
+  width: 95.6px;
+  height: 29.24px;
+}
+.contact,
+.departments1 {
+  left: 1132.58px;
+  width: 110.22px;
+  height: 25.87px;
+}
+.departments1 {
+  left: 920.01px;
+  width: 182.2px;
+}
+.profile-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-beige);
+  width: 119.22px;
+  height: 35.99px;
+}
+.profile1 {
+  position: absolute;
+  top: 4.5px;
+  left: 26.99px;
+  display: inline-block;
+  width: 65.23px;
+  height: 25.87px;
+}
+.profile-button {
+  position: absolute;
+  top: 28.12px;
+  left: 1279.92px;
+  width: 119.22px;
+  height: 35.99px;
+  text-align: center;
+  color: var(--color-gray-100);
+}
+.search-bg-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 444.26px;
+  height: 37.12px;
+}
+.search {
+  border: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 8.01px;
+  left: 25.39px;
+  color: var(--color-gray-100);
+  text-align: center;
+  display: inline-block;
+  width: 65.23px;
+  height: 25.87px;
+}
+.nav-bar,
+.search-button {
+  position: absolute;
+  top: 26.99px;
+  left: 289.61px;
+  width: 444.26px;
+  height: 37.12px;
+}
+.nav-bar {
+  top: 0;
+  left: 0;
+  width: 1439.63px;
+  height: 89.98px;
+}
+.tv-1 {
+  position: relative;
+  background-color: var(--color-beige);
+  width: 100%;
+  height: 1300px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-beige);
+  font-family: var(--font-roboto);
+}
+
+.submit-button a:visited{
+  text-decoration: none;
+  color: #E5E5CB;
+}
+.submit-button a{
+  text-decoration: none;
+  color: #E5E5CB;
+}
